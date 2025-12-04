@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I’m Evann ⚡
 
-<!--
-**evannglt/evannglt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I learn fast, and ship fast. I’m obsessed with new tech, clean architectures, and turning ideas into products people actually use.
 
-Here are some ideas to get you started:
+## 🛠️ Things I’ve built
+### **Tailor** — AI-powered content platform  
+A video app we built to experiment with real-time recommendations, vector search, and a clean microservices architecture. It started as a tech playground and turned into a full product.  
+👉 https://www.tailorapp.fr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Meetway** — event carpooling  
+Co-founder & CTO. Cloud-native, integrated, built to scale.
+
+## ❤️  What drives me
+New technologies. Building stuff end-to-end. Learning by doing.  
+If it’s challenging or innovative, I’m in.
+
+Let’s build cool things.
